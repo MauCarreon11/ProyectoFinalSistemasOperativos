@@ -10,4 +10,6 @@ Un sistema operativo es un conjunto de programas que se encarga de gestionar los
 El sistema operativo nos ayuda a visualizar y hacer mas didacticas e intuitivas las funciones de un componente, no solo existen sistemas operativos operativos para computadoras, si no para dispositivos m\'f3viles, relojes, televisores, electrodomesticos, etc.\
 \
 ## 2.	\'bfQu\'e9 es el Open Source?\
+\
+Hola esta es una prueba\
 }
