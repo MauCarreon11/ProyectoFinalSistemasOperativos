@@ -7,3 +7,6 @@ El sistema operativo nos ayuda a visualizar y hacer mas didacticas e intuitivas 
 
 ## 2.	¿Qué es el Open Source?
 
+![Alt text](imagen.jpeg)
+
+
