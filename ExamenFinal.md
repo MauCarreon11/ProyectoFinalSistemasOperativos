@@ -500,7 +500,8 @@ Guido van Rossum es un informático y científico de la computación,  escribió
 
 ### 7. Ahora solo queda esperar a que la actualización se complete, recuerda que tu computara se reiniciara al completar el paso 6.
 
--
+
+# Finalizado mi examen final.
 
 
 
