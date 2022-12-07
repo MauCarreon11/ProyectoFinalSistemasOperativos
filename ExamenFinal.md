@@ -430,8 +430,45 @@ Los usuarios pero sobre todo los programadores quieren una memoria **muy rápida
 ![](persist.png)
 >La persistencia es la acción de mantener la información del objeto de una forma permanente (guardarla), pero también debe de poder recuperarse dicha información para que pueda ser utilizada nuevamente. La persistencia es el mecanismo que se usa para mantener información almacenada.
 
+##	Personajes importantes para la historia de los sistemas operativos 
 
 
+### 1. Dennis Ritchie (1941-2011): 
+
+Dennis MacAlistair Ritchie, Graduado de Física y Matemáticas aplicadas de Harvard, fue un científico de la computación estadounidense.
+
+* De 1969 hasta 1972,  Dennis Ritchie creó el lenguaje de programación C.  
+
+* En 1971, Ritchie junto a Ken Thompson les asignaron trabajar en el desarrollo del Sistema Operativo MULTICS, pero este S.O. les resultó demasiado complicado, y muy pesado.  
+Más tarde encontrarían una computadora PDP-7 en la que comenzaron a construir un S.O. multiplataforma desde cero. Así nació UNIX (Uniplexed Information and Computing System).   
+UNIX, un sistema operativo multipropósito e interoperable, significó un cambio de paradigma y una revolución tecnológica que hizo más eficiente el desarrollo de software.
+
+   ![](ritchie.png)
+
+
+### 2.  Bill Gates (1955-actualidad): 
+Fundó la compañía de software Microsoft junto con Paul Allen. Desarrolló el sistema operativo MS-DOS en 1981, que posteriormente se convirtió en Windows 3.1 en 1992. Este sistema operativo evolucionó en múltiples versiones mejoradas que continúan integradas en multitud de ordenadores actuales.
+
+   ![](gates.png)
+ 
+### 3.  Tim Berners-Lee (1955-actualidad): 
+Timothy "Tim" John Berners-Lee, es un científico de la computación británico, conocido por ser el padre de la World Wide Web (WWW). Estableció la primera comunicación entre un cliente y un servidor usando el protocolo HTTP en diciembre de 1990.
+
+![](lee3.png)
+
+
+### 4.  Linus Torvalds (1969-actualidad): 
+
+* En 1991 inició y mantuvo el desarrollo del núcleo de Linux ya que estaba interesado en crear una alternativa open source y gratuita del sistema MINIX.
+
+* En 2005, desarrolló el software de control de versiones llamado Git pensado para la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones. 
+
+![](linus.png)
+ 
+### 5.  Guido Van Rossum (1956-actualidad):
+Guido van Rossum es un informático y científico de la computación,  escribió el lenguaje de programación Python a finales de los años ochenta y desde su primer lanzamiento en 1991 ha evolucionado hasta su versión más reciente (3.1.1), desarrollado como un proyecto de código abierto. Contratado por Google en 2005 en la actualidad dedica el 50% de su tiempo a trabajar en Python.
+
+![](guido.png)
 
 
 
