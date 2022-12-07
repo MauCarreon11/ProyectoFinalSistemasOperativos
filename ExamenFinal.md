@@ -43,13 +43,13 @@ Pero asi como tiene ventajas tambien tiene ciertas desventajas para los desarrol
 
 
 
-##Historia de los sistemas operativos Mac OS, Ubuntu y Windows
+## Historia de los sistemas operativos Mac OS, Ubuntu y Windows
 
 En el mundo de la tecnología y los dispositivos, existe una gran diversidad de sistemas operativos y siendo unos mas populares que otros debido a su eficiencia a la hora de trabajar o navegar, facil manejo e intuitividad o simplemente por que son los mas accesibles y reconocidos como el sistema operativo Mac OS, Ubuntu y Windows. 
 
 ![](http://3.bp.blogspot.com/-Yyaq6gfJw7s/UTunb1gr19I/AAAAAAAABRo/oWZvsxptcHw/s1600/triple-boot.gif)
 
-###Mac Os:
+### Mac Os:
 >El Mac OS ha sido el sistema operativo primario de Apple desde 1984. A diferencia de sus predecesores, Mac OS X es un sistema operativo tipo UNIX, el cual fue construido sobre la tecnología desarrollada por NeXT en la segunda mitad de los años 1980 hasta que Apple compró esta compañía a principios de 1997.
 
 Estas son las algunas de las fechas mas importantes en el desarrollo de este sistema operativo:
@@ -146,7 +146,7 @@ Estas son las algunas de las fechas mas importantes en el desarrollo de este sis
 ![](https://brandemia.org/contenido/subidas/2022/03/captura-de-pantalla-2022-03-17-a-las-11-53-41-1024x286.png)
 
 
-###Windows
+### Windows
 
 >En 1975 Bill Gates y Paul Allen fundaron la compañía Microsoft en Estados Unidos, con el objetivo de desarrollar y comercializar programas para ejecutar el Altair 8800, un microordenador diseñado en 1974. Gates y Allen desarrollaron el primer lenguaje de programación para el Altair Basic.
 
@@ -250,7 +250,7 @@ Reloj interno IBM AT.
 ![](https://i0.wp.com/derechodelared.com/wp-content/uploads/2015/08/windows-logos.png)
 
 
-##Comandos básicos de la terminal Unix (terminal de Mac)
+## Comandos básicos de la terminal Unix (terminal de Mac)
 
 La terminal es una interfaz de línea de comandos de Mac con la que puede acceder a la parte Unix de macOS para administrar archivos y ejecutar scripts a través de comandos de texto. 
 
@@ -270,7 +270,7 @@ A continuación, algunos de los comandos principales.
 
 ##	Dispositivos de entrada/salida
 
-###Dispositivos de entrada
+### Dispositivos de entrada
 
 >Los dispositivos de entrada son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento. A través de ellos se transforma la información de entrada en señales eléctricas.   
 
@@ -280,7 +280,7 @@ Ejemplos:
 `Teclado` `Ratón` `Joy Stick`  `Pluma de luz`  `Bola de pista`       
 `Escáner` `Tableta digitalizadora`     `Micrófono`    
 
-###Dispositivos de salida
+### Dispositivos de salida
 
 >Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.  
   
@@ -292,7 +292,7 @@ Ejemplos:
 ` Video Beams o proyectores`
 
 
-###Dispositivos Mixtos
+### Dispositivos Mixtos
 
 > Los dispositivos de entrada y salida o dispositivos mixtos permiten la introducción y extracción de datos en la memoria central.   
 
@@ -304,11 +304,11 @@ Por ejemplo:
 
 ##	Procesos y algoritmo de planeación
 
-###Qué es un proceso? 
+### Qué es un proceso? 
 
 Es el nombre con el que se denomina la ejecución de un programa individual, representado por una serie de instrucciones que el procesador debe ejecutar, la mayoría de los sistemas operativos modernos basan toda su estructura de diseño alrededor de este concepto. 
 
-####De que consta?   
+#### De que consta?   
 1.- *Identificador.*  
 2.- ***Estado.***  
 3.- *Prioridad.*   
@@ -318,7 +318,7 @@ Es el nombre con el que se denomina la ejecución de un programa individual, rep
 7.- *Información de estado de E/S.*   
 8.- *Información de auditoría.*   
 
-###Estado de un proceso
+### Estado de un proceso
 Cuando un proceso es ejecutado, éste cambia de estado.
 El estado de un proceso es definido por la actividad que está ejecutado el proceso.
 
@@ -335,10 +335,10 @@ El estado de un proceso es definido por la actividad que está ejecutado el proc
 **Hilo (Thread):** *Una unidad de ejecución dentro de un proceso. Un proceso puede tener uno o muchos hilos.*  
 **Compilador:** *Transforma lenguaje de alto nivel a bajo nivel.*
 
-######*Una computadora solo entiende lenguaje de bajo nivel, específicamente, código binario.
+###### *Una computadora solo entiende lenguaje de bajo nivel, específicamente, código binario.
   
 
-###Planificación de procesos 
+### Planificación de procesos 
 El planificador de procesos (process scheduler, en inglés) es la parte del sistema operativo que se encarga de seleccionar a qué proceso se asigna el recurso procesador y durante cuánto tiempo.  
 El objetivo de la multiprogramacion es tener algun proceso corriendo en todo momento, para maximizar la utilización del CPU y el objetivo del tiempo compartido es cambiar la CPU entre procesos con tanta frecuencia que los usuarios puedan interactuar con cada programa mientras se ejecuta.
 
@@ -347,19 +347,19 @@ Se puede creer que las tres cosas estan pasando el mismo tiempo pero no, el CPU 
 
 ![](http://sistop.gwolf.org/html/img/ditaa/hyperthread.png)
 
-##Almacenamiento
+## Almacenamiento
 
-###Dispositivos de almacenamiento de datos
+### Dispositivos de almacenamiento de datos
 
-####· ¿Que son?
+#### · ¿Que son?
 Un dispositivo de almacenamiento de datos es un conjunto de componentes electrónicos habilitados para leer o grabar datos en el soporte de almacenamiento de datos de forma temporal o permanente.
 
 Algunos dispositivos pueden ser los discos duros, dvd, cd, pendrive, tarjeta SD, memory stick, disco duro portatil, disquete, entre otros. 
 
-####· Función
+#### · Función
 Sirven para la recopilación y conservación de la información digital, es decir, de los bits y bytes que se encuentran detrás de las aplicaciones, los protocolos de red, los documentos, el contenido multimedia, las libretas de direcciones y las preferencias de los usuarios, entre otros.
 
-###Unidades de almacenamiento
+### Unidades de almacenamiento
 
 Así como usamos medidas para saber cuánto pesan o miden las cosas, también hay unidades de medida que permiten calcular la capacidad de almacenamiento de información o procesamiento de datos. 
 
@@ -388,17 +388,17 @@ Para entender mejor cómo se relacionan estas unidades de medida entre sí, obse
 
 * Terabyte(TB) 1024 GB.
 
-###Tabla de conversión
+### Tabla de conversión
 A veces algunos sistemas operativos o programas simplifican multiplicando o dividiendo por/entre 1000 en vez de 1024.
 
 ![](https://novedadesdetic.files.wordpress.com/2019/10/unidades.png)
 
-##Jerarquía de memoria
+## Jerarquía de memoria
 La jerarquía de memoria es la organización piramidal de la memoria en niveles que tienen las computadoras. El objetivo es conseguir el rendimiento de una memoria de gran velocidad al coste de una memoria de baja velocidad, basándose en el principio de cercanía de referencias.
 
 ![](https://carmenclimentarquitecturadecomputadoras.files.wordpress.com/2015/09/visic3b3n-global-de-la-jararquc3ada-de-memoria.png)
 
-###¿Por qué necesitamos una Jerarquía de Memoria?
+### ¿Por qué necesitamos una Jerarquía de Memoria?
 Los usuarios pero sobre todo los programadores quieren una memoria **muy rápida**, **muy grande** y con un **coste razonable**.
 
 ![](jerarquiademem.png) 
@@ -409,7 +409,7 @@ Los usuarios pero sobre todo los programadores quieren una memoria **muy rápida
 
 
 
-##Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
+## Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
 
 ### ·Virtualización del CPU:
 
@@ -481,24 +481,24 @@ Guido van Rossum es un informático y científico de la computación,  escribió
 
 ![](dmo2.png)
 
-###3. Da clic en el boton `Actualización de Software...`
+### 3. Da clic en el boton `Actualización de Software...`
 
 ![](dmooo.png)
 
 
-###4. Da clic en el boton `Actualizar ahora`
+### 4. Da clic en el boton `Actualizar ahora`
 
 ![](dmo6.png)
 
-###5. Acepta los terminos y condiciones.
+### 5. Acepta los terminos y condiciones.
 
 ![](dmo7.png)
 
-###6. Ingresa la contraseña del usuario seleccionado.
+### 6. Ingresa la contraseña del usuario seleccionado.
 
 ![](dmo8.png)
 
-###7. Ahora solo queda esperar a que la actualización se complete, recuerda que tu computara se reiniciara al completar el paso 6.
+### 7. Ahora solo queda esperar a que la actualización se complete, recuerda que tu computara se reiniciara al completar el paso 6.
 
 -
 
