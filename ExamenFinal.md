@@ -471,6 +471,36 @@ Guido van Rossum es un informático y científico de la computación,  escribió
 ![](guido.png)
 
 
+## Instrucciones para instalar una nueva versión de Mac
+
+### 1. Ubicate en el Desktop de tu computadora y da clic en el icono  en la esquina superior izquierda de la pantalla. 
+
+![](dmo.png)
+
+### 2. Da clic en la opción "Acerca de esta Mac".
+
+![](dmo2.png)
+
+###3. Da clic en el boton `Actualización de Software...`
+
+![](dmooo.png)
+
+
+###4. Da clic en el boton `Actualizar ahora`
+
+![](dmo6.png)
+
+###5. Acepta los terminos y condiciones.
+
+![](dmo7.png)
+
+###6. Ingresa la contraseña del usuario seleccionado.
+
+![](dmo8.png)
+
+###7. Ahora solo queda esperar a que la actualización se complete, recuerda que tu computara se reiniciara al completar el paso 6.
+
+-
 
 
 
