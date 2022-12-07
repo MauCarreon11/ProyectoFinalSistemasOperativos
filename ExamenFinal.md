@@ -349,6 +349,90 @@ Se puede creer que las tres cosas estan pasando el mismo tiempo pero no, el CPU 
 
 ##Almacenamiento
 
+###Dispositivos de almacenamiento de datos
+
+####· ¿Que son?
+Un dispositivo de almacenamiento de datos es un conjunto de componentes electrónicos habilitados para leer o grabar datos en el soporte de almacenamiento de datos de forma temporal o permanente.
+
+Algunos dispositivos pueden ser los discos duros, dvd, cd, pendrive, tarjeta SD, memory stick, disco duro portatil, disquete, entre otros. 
+
+####· Función
+Sirven para la recopilación y conservación de la información digital, es decir, de los bits y bytes que se encuentran detrás de las aplicaciones, los protocolos de red, los documentos, el contenido multimedia, las libretas de direcciones y las preferencias de los usuarios, entre otros.
+
+###Unidades de almacenamiento
+
+Así como usamos medidas para saber cuánto pesan o miden las cosas, también hay unidades de medida que permiten calcular la capacidad de almacenamiento de información o procesamiento de datos. 
+
+Las unidades de medida más usadas son el Bit, Byte, Kilobyte, Megabyte, Gigabyte y Terabyte. 
+
+Para entender mejor cómo se relacionan estas unidades de medida entre sí, observemos la siguente tabla de unidades:
+
+|Unidad de medida| Símbolo  | Relación   |
+|:-------------  |:-------- | :----------|
+| Bit            | bit      | 1 bit      |
+| Byte           | B        | 8 bits     |
+| Kilobyte       | KB       | 1024 B     |
+| Megabyte       | MB       | 1024 KB    |
+| Gigabyte       | GB       | 1024 MB    |
+| Terabyte       | TB       | 1024 GB    |
+
+* La unidad minima o básica es el bit y se representa por la letra b, simplemente es un 0 o 1, hay corriente o no hay corriente.
+
+* El Byte (B) es la primera unidad de almacenamiento que tiene sentido, esta compuesta por 8 bits, un Byte es aproximadamente un caracter.
+
+* El Kilobyte(KB) equivale a 1024 Bytes.
+
+* Megabyte(MB) 1024 KB.
+
+* Gigabyte(GB) 1024 MB.
+
+* Terabyte(TB) 1024 GB.
+
+###Tabla de conversión
+A veces algunos sistemas operativos o programas simplifican multiplicando o dividiendo por/entre 1000 en vez de 1024.
+
+![](https://novedadesdetic.files.wordpress.com/2019/10/unidades.png)
+
+##Jerarquía de memoria
+La jerarquía de memoria es la organización piramidal de la memoria en niveles que tienen las computadoras. El objetivo es conseguir el rendimiento de una memoria de gran velocidad al coste de una memoria de baja velocidad, basándose en el principio de cercanía de referencias.
+
+![](https://carmenclimentarquitecturadecomputadoras.files.wordpress.com/2015/09/visic3b3n-global-de-la-jararquc3ada-de-memoria.png)
+
+###¿Por qué necesitamos una Jerarquía de Memoria?
+Los usuarios pero sobre todo los programadores quieren una memoria **muy rápida**, **muy grande** y con un **coste razonable**.
+
+![](jerarquiademem.png) 
+
+* **SRAM (Static Random Access Memory):** *Es una memoria volatil, que quiere decir que los datos se pierden cuando es apgado el dispositivo. Se utiliza para implementar la cache.*
+
+* **SDRAM (Synchronous dynamic random access memory):** *Se utiliza para implementar la memoria principal.*
+
+
+
+##Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
+
+### ·Virtualización del CPU:
+
+![](virtualizacioncpu.png)
+> La virtualización de CPU es una característica de hardware que se puede encontrar en todos los procesadores modernos tanto de AMD como de Intel, y permite a un único procesador actuar como si fueran varios procesadores individuales. Esto permite que el sistema operativo sea capaz de utilizar la potencia del procesador de manera más efectiva y eficiente, o en otras palabras, que optimice mejor la potencia del procesador para hacer que el equipo funcione más rápido en muchos procesos complejos.
+
+
+### ·Virtualización de memoria:
+
+![](virtualizamem.png)
+> El concepto es exactamente el mismo que para la virtualización de almacenamiento. La idea es crear una memoria de función compartida mediante una distribución en la red para que los distintos equipos la utilicen. Ofrece las mismas ventajas que el almacenamiento en red.
+
+### ·Concurrencia:
+![](conc.png)
+>Concurrencia es la habilidad que tiene un computador de realizar varias tareas a la vez. Gracias a la concurrencia es que puedes ver un video en YouTube mientas subes un archivo a Dropbox y hablas con tus amigos en Facebook, todo a la vez.
+
+### ·Persistencia:
+![](persist.png)
+>La persistencia es la acción de mantener la información del objeto de una forma permanente (guardarla), pero también debe de poder recuperarse dicha información para que pueda ser utilizada nuevamente. La persistencia es el mecanismo que se usa para mantener información almacenada.
+
+
+
+
 
 
 
