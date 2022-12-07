@@ -268,6 +268,86 @@ A continuacion, algunos de los comandos principales.
 * **cd:** Sirve para llevarte a la raíz o carpeta principal. 
 * **cd .. :** Es para regresar de la carpeta, funciona como si le dieras a la flechita. 
 
+##	Dispositivos de entrada/salida
+
+###Dispositivos de entrada
+
+>Los dispositivos de entrada son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento. A través de ellos se transforma la información de entrada en señales eléctricas.   
+
+Ejemplos: 
+ 
+
+`Teclado` `Ratón` `Joy Stick`  `Pluma de luz`  `Bola de pista`       
+`Escáner` `Tableta digitalizadora`     `Micrófono`    
+
+###Dispositivos de salida
+
+>Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.  
+  
+Ejemplos: 
+ 
+
+ `Monitor` `Impresora` ` Parlante`    
+ `Auriculares. `
+` Video Beams o proyectores.`
+
+
+###Dispositivos Mixtos
+
+> Los dispositivos de entrada y salida o dispositivos mixtos permiten la introducción y extracción de datos en la memoria central.   
+
+Por ejemplo: 
+
+`Smart phone` `Impresoras multifunción`  
+`Pantalla táctil de una computadora` 
+
+
+##	Procesos y algoritmo de planeación
+
+###Qué es un proceso? 
+
+Es el nombre con el que se denomina la ejecución de un programa individual, representado por una serie de instrucciones que el procesador debe ejecutar, la mayoría de los sistemas operativos modernos basan toda su estructura de diseño alrededor de este concepto. 
+
+####De que consta?   
+1.- *Identificador.*  
+2.- ***Estado.***  
+3.- *Prioridad.*   
+4.- *Contador de programa.*   
+5.- *Punteros a memoria.*   
+6.- *Datos de contexto.*   
+7.- *Información de estado de E/S.*   
+8.- *Información de auditoría.*   
+
+###Estado de un proceso
+Cuando un proceso es ejecutado, éste cambia de estado.
+El estado de un proceso es definido por la actividad que está ejecutado el proceso.
+
+* **Nuevo (NEW):** El proceso se creó.  
+
+- **Listo (READY):** El proceso espera a que sea asignado a un procesador (aquí el proceso se creo pero no esta corriendo aun).   
+
+* **Corriendo (RUNNING):** Está ejecutando instrucciones. 
+ 
+- **Esperando-bloqueado  (WAITING):** Esperando a que un evento ocurra (esperando a que un componente de I/O se conecte  o que se reciba señal).   
+
+* **Terminado (FINISHING):** El proceso ha sido terminado la ejecución.
+
+**Hilo (Thread):** *Una unidad de ejecución dentro de un proceso. Un proceso puede tener uno o muchos hilos.*  
+**Compilador:** *Transforma lenguaje de alto nivel a bajo nivel.*
+
+######*Una computadora solo entiende lenguaje de bajo nivel, específicamente, código binario.
+  
+
+###Planificación de procesos 
+El planificador de procesos (process scheduler, en inglés) es la parte del sistema operativo que se encarga de seleccionar a qué proceso se asigna el recurso procesador y durante cuánto tiempo.  
+El objetivo de la multiprogramacion es tener algun proceso corriendo en todo momento, para maximizar la utilización del CPU y el objetivo del tiempo compartido es cambiar la CPU entre procesos con tanta frecuencia que los usuarios puedan interactuar con cada programa mientras se ejecuta.
+
+Un ejemplo de la planificación de procesos, puede ser que yo en el momento de hacer este proyecto, tengo varios programas abiertos, algunos archivos descargando y musica reproduciendo.   
+Se puede creer que las tres cosas estan pasando el mismo tiempo pero no, el CPU esta constantemente cambiando entre procesos tan rápido, en cuestion de milisegundos que parce que se esta ejecutando al mismo tiempo.
+
+![](http://sistop.gwolf.org/html/img/ditaa/hyperthread.png)
+
+##Almacenamiento
 
 
 
