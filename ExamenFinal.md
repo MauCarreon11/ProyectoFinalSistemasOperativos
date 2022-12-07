@@ -1,6 +1,6 @@
 # Sistemas Operativos. 
 
-
+![](port.png)
 
 **Alumno:**
 *Victor Mauricio Hernandez Carreon.*
@@ -250,11 +250,11 @@ Reloj interno IBM AT.
 ![](https://i0.wp.com/derechodelared.com/wp-content/uploads/2015/08/windows-logos.png)
 
 
-##Comandos básicos de la terminal Unix (terminal de Mac o Ubuntu)
+##Comandos básicos de la terminal Unix (terminal de Mac)
 
 La terminal es una interfaz de línea de comandos de Mac con la que puede acceder a la parte Unix de macOS para administrar archivos y ejecutar scripts a través de comandos de texto. 
 
-A continuacion, algunos de los comandos principales.
+A continuación, algunos de los comandos principales.
 
 
 * **pwd:** Muestra en dónde estas actualmente. 
@@ -288,8 +288,8 @@ Ejemplos:
  
 
  `Monitor` `Impresora` ` Parlante`    
- `Auriculares. `
-` Video Beams o proyectores.`
+ `Auriculares `
+` Video Beams o proyectores`
 
 
 ###Dispositivos Mixtos
